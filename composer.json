@@ -1,0 +1,18 @@
+{
+    "name": "hirak/apigen2.8.0",
+    "description": "version locked apigen package",
+    "require": {
+        "apigen/apigen": "2.8.0",
+        "dg/texy": "v2.4",
+        "nette/nette": "v2.1.8",
+        "andrewsville/php-token-reflection": "1.4.0",
+        "kukulich/fshl": "2.1.0"
+    },
+    "license": "CC0-1.0",
+    "authors": [
+        {
+            "name": "Hiraku NAKANO",
+            "email": "hiraku@tojiru.net"
+        }
+    ]
+}
